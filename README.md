@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ML Project - Risk & Compliance Management System
 
 A complete full-stack monorepo application for document analysis, compliance checking, risk scoring, and anomaly detection.
@@ -218,3 +219,6 @@ The project includes sample data:
 - TypeScript for type safety
 - Tailwind CSS for styling
 - shadcn/ui components for UI
+=======
+# ml-risk-compliance
+>>>>>>> 4f6403bb4f5d9827863465685fe010bbbd153f6d
