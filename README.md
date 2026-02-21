@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ML Project - Risk & Compliance Management System
 
 A complete full-stack monorepo application for document analysis, compliance checking, risk scoring, and anomaly detection.
